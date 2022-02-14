@@ -9,7 +9,11 @@ image_metadata:
     visited on the site of the nuclear test from July 16th, 1945.
   credit: ''
   image-alt: A photo of the White Sands Missile Range monument.
+learning_resource_types: []
+parent_title: Teaching a Similar Course in Different Settings
+parent_type: CourseSection
 resourcetype: Image
 title: White-Sands-missile-range.jpg
+type: OCWImage
 uid: 7d85792b-775d-9e45-208f-621d538ee444
 ---

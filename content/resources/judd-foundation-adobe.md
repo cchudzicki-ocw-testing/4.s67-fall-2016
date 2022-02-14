@@ -7,7 +7,11 @@ image_metadata:
   caption: Adobe details at the Judd Foundation.
   credit: ''
   image-alt: A photo of an adobe wall at the Judd Foundation.
+learning_resource_types: []
+parent_title: Teaching a Similar Course in Different Settings
+parent_type: CourseSection
 resourcetype: Image
 title: Judd-foundation-adobe.jpg
+type: OCWImage
 uid: 596cccef-4350-569d-b99d-633354b15e66
 ---

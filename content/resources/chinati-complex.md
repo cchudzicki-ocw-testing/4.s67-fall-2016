@@ -9,7 +9,11 @@ image_metadata:
   credit: ''
   image-alt: A photo of a window located in an old wool factory inside of the Chinati
     complex.
+learning_resource_types: []
+parent_title: Teaching a Similar Course in Different Settings
+parent_type: CourseSection
 resourcetype: Image
 title: Chinati-complex.jpg
+type: OCWImage
 uid: c7f5a5e6-069e-a506-480a-33621528754c
 ---

@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 title: Teaching a Similar Course in Different Settings
+type: CourseSection
 uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 ---
 

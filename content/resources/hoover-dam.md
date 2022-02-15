@@ -13,6 +13,5 @@ parent_title: Field Trip Itinerary
 parent_type: CourseSection
 resourcetype: Image
 title: Hoover-Dam.jpg
-type: OCWImage
 uid: 162307ea-c5fb-5788-2c7e-dd4911c9ae2d
 ---

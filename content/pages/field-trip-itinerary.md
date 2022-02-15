@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Field Trip Itinerary
-type: CourseSection
 uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 ---
 

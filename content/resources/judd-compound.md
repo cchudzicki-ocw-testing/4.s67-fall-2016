@@ -12,6 +12,5 @@ parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
 resourcetype: Image
 title: Judd-compound.jpg
-type: OCWImage
 uid: e73d44a1-845f-f101-b866-23e9c7ae9139
 ---

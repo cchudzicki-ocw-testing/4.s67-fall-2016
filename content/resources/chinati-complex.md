@@ -14,6 +14,5 @@ parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
 resourcetype: Image
 title: Chinati-complex.jpg
-type: OCWImage
 uid: c7f5a5e6-069e-a506-480a-33621528754c
 ---

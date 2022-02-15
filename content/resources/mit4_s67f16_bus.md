@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: MIT4_S67F16_bus.jpg
-type: OCWImage
 uid: 6cc58155-bea3-65ac-973e-20e7cd55af37
 ---

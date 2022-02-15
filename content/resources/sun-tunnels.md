@@ -13,6 +13,5 @@ parent_title: Field Trip Itinerary
 parent_type: CourseSection
 resourcetype: Image
 title: sun-tunnels.jpg
-type: OCWImage
 uid: 42d90b87-45fe-e18d-0712-8576c1666ef7
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Bibliography
-type: CourseSection
 uid: 1dadf207-e220-2fe5-bd05-5c83b01c65da
 ---
 

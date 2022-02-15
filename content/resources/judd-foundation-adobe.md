@@ -12,6 +12,5 @@ parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
 resourcetype: Image
 title: Judd-foundation-adobe.jpg
-type: OCWImage
 uid: 596cccef-4350-569d-b99d-633354b15e66
 ---

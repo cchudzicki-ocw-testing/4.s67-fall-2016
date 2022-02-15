@@ -13,6 +13,5 @@ parent_title: Field Trip Itinerary
 parent_type: CourseSection
 resourcetype: Image
 title: spiral-jetty.jpg
-type: OCWImage
 uid: d19c5610-c737-ee7b-b914-03b4bd9506b6
 ---

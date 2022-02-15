@@ -12,6 +12,5 @@ parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
 resourcetype: Image
 title: Prada-Marfa.jpg
-type: OCWImage
 uid: 93079099-6a99-9bc2-1c5e-b02434acef74
 ---

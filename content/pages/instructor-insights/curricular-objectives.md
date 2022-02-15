@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
 title: Curricular Objectives
-type: CourseSection
 uid: ef5df0b9-b80f-a147-78fd-4db84bf871e1
 ---
 

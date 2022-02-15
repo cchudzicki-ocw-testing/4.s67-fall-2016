@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: MIT4_S67F16_bus.jpg
 uid: 6cc58155-bea3-65ac-973e-20e7cd55af37

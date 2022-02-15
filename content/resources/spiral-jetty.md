@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo of the Spiral Jetty, the land art sculpture constructed of mud,
     salt, and rocks.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection
 resourcetype: Image

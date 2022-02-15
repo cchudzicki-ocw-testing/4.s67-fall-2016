@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of the White Sands Missile Range monument.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection
 resourcetype: Image

@@ -37,8 +37,8 @@ Instructor Insights
 
 _In the following pages, Dr. Rebecca Uchill describes various aspects of how she taught_ 4.S67 Landscape Experience: Seminar in Land/Art.
 
-*   [Curricular Objectives]({{< baseurl >}}/pages/instructor-insights/curricular-objectives)
-*   [Teaching a Similar Course in Different Settings]({{< baseurl >}}/pages/instructor-insights/teaching-a-similar-course-in-different-settings)
+*   {{< resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" >}}
+*   {{< resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" >}}
 
 Curriculum Information
 ----------------------
@@ -68,7 +68,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![Twelve students took this course in the fall of 2016.]({{< resource_file 289e6c8e-ca09-f388-274a-59a090c6c85c >}})
+{{< resource 289e6c8e-ca09-f388-274a-59a090c6c85c >}}
 
 ### Breakdown by Year
 

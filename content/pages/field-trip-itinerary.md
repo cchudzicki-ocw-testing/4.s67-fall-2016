@@ -175,7 +175,7 @@ _Car 2 Schedule:_
 *   Optional lunch with Rice School of Architecture Dean Sarah Whiting (sign up)
 *   2-3:30 - Project Row Houses
 
-![MIT4_S67F16_bus.jpg]({{< resource_file 6cc58155-bea3-65ac-973e-20e7cd55af37 >}})
+{{< resource 6cc58155-bea3-65ac-973e-20e7cd55af37 >}}
 
 Students made a documentary of the field trip, _[Travelogue of the Undocumentable](https://youtu.be/aP4PWnEzFPQ)_.
 

@@ -95,7 +95,7 @@ _MIT holiday_, no formal class meeting
 {{< tdopen >}}
 
 
-1.  Complete [readings from field trip bibliography]({{< baseurl >}}/pages/readings/field-trip-readings)
+1.  Complete {{< resource_link 2f8808fd-883e-d6a9-21d4-1a3576060ba5 "readings from field trip bibliography" >}}
 2.  Prepare Lavine Lecture contributions
 
 
@@ -114,7 +114,7 @@ Minimalism, Monument, Money, Mortgage
 
 {{< tdclose >}}
 {{< tdopen >}}
-Workshop on [field trip readings]({{< baseurl >}}/pages/readings/field-trip-readings); run-through of Lavine lecture presentations
+Workshop on {{< resource_link 2f8808fd-883e-d6a9-21d4-1a3576060ba5 "field trip readings" >}}; run-through of Lavine lecture presentations
 {{< tdclose >}}
 
 {{< trclose >}}

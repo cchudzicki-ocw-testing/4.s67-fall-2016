@@ -37,8 +37,8 @@ Instructor Insights
 
 _In the following pages, Dr. Rebecca Uchill describes various aspects of how she taught_ 4.S67 Landscape Experience: Seminar in Land/Art.
 
-*   {{< resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" >}}
-*   {{< resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" >}}
+*   {{% resource_link ef5df0b9-b80f-a147-78fd-4db84bf871e1 "Curricular Objectives" %}}
+*   {{% resource_link 9090fc69-c928-1870-cc73-b26dea0b96d2 "Teaching a Similar Course in Different Settings" %}}
 
 Curriculum Information
 ----------------------

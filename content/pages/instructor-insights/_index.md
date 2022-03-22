@@ -28,7 +28,7 @@ _Course Goals for Students_
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 {{< quote "Documentation can't convey the full contours of experiences—the wind, the smells, the scale, the memories, and so on." "—Dr. Rebecca Uchill" >}}
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains details about the midterm and final projects as
+  well as due dates. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Projects

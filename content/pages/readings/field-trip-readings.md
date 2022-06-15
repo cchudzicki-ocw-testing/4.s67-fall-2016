@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings for students who participated
+  in the optional field trip preceding the term.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

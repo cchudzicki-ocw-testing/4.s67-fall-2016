@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the itinerary and agenda for the optional course
+  field trip.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Field Trip Itinerary

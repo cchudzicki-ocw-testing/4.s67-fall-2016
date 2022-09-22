@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of the Hoover Dam.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection

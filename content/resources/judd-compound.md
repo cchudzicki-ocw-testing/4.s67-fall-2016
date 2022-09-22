@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of double wooden doors leading to the Donald Judd compound.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection

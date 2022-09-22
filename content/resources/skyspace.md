@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A photo of a ceiling with a square opening revealing blue skies and clouds
     above.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching a Similar Course in Different Settings
 parent_type: CourseSection

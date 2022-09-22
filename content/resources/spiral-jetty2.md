@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo of the beach and shoreline leading up to the art installation,
     The Spiral Jetty.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Field Trip Itinerary
 parent_type: CourseSection

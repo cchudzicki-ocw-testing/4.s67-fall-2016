@@ -74,7 +74,7 @@ Mostly graduate students
 
 ### Breakdown by Major
 
-Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/graduate-programs#march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/discipline/history-theory-and-criticism) (HTC)
+Mostly the [MIT Program in Art, Culture, and Technology](http://act.mit.edu/) (ACT), [Master of Architecture](https://architecture.mit.edu/graduate-programs#march) (MArch), and [History, Theory and Criticism of Architecture and Art](https://architecture.mit.edu/history-theory-criticism) (HTC)
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 

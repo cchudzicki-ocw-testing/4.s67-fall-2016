@@ -219,7 +219,7 @@ Spirn, Anne W. "Prologue." In *The Granite Garden: Urban Nature and Human Design
 
 ———. "Polemical Landscapes." *The Language of Landscape*. Yale University Press, 2000. ISBN: 9780300082944.
 
-———. ["Ecological Urbanism: A Framework for the Design of Resilient Cities." (PDF)](http://www.annewhistonspirn.com/pdf/Spirn-EcoUrbanism-2012.pdf)
+———. ["Ecological Urbanism: A Framework for the Design of Resilient Cities." (PDF)](https://annewhistonspirn.com/sharefiles/Spirn-EcoUrbanism-2012.pdf)
 
 *Recommended:*
 
